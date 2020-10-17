@@ -8,6 +8,10 @@
   background: white;
   align-items: center;
   min-width: 40%;
+  transition: transform 0.5s ease;
+}
+.recipe:hover {
+  transform: scale(1.02);
 }
 .calories {
   text-transform: uppercase;

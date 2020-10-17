@@ -7,6 +7,13 @@
     #fad0c4 100%
   );
 }
+.title {
+  text-align: center;
+  color: orangered;
+  padding: 20px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
 
 .search-form {
   min-height: 10vh;
